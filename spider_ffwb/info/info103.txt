@@ -1,0 +1,69 @@
+详情链接：http://www.ccgp-jiangsu.gov.cn/cgxx/cjgg//suzhou/201805/t20180530_315487.html
+苏州市电化教育馆关于系统扩容项目的成交公告
+.b1{white-space-collapsing:preserve;}
+.b2{margin: 0.7875in 0.7875in 0.7875in 0.7875in;}
+.p1{text-align:center;hyphenate:auto;font-family:宋体;font-size:14pt;}
+.p2{text-indent:0.33680555in;text-align:start;hyphenate:auto;font-family:宋体;font-size:12pt;}
+.p3{text-align:center;hyphenate:auto;font-family:宋体;font-size:12pt;}
+.p4{text-indent:0.33333334in;text-align:justify;hyphenate:auto;font-family:宋体;font-size:12pt;}
+.p5{text-indent:0.29166666in;text-align:justify;hyphenate:auto;font-family:宋体;font-size:12pt;}
+.p6{text-indent:0.33680555in;text-align:end;hyphenate:auto;font-family:宋体;font-size:12pt;}
+.s1{color:black;}
+.s2{font-weight:bold;}
+.td1{width:0.5541667in;padding-start:0.0in;padding-end:0.0in;border-bottom:thin solid black;border-left:thin solid black;border-right:thin solid black;border-top:thin solid black;}
+.td2{width:1.5159723in;padding-start:0.0in;padding-end:0.0in;border-bottom:thin solid black;border-left:thin solid black;border-right:thin solid black;border-top:thin solid black;}
+.td3{width:3.1375in;padding-start:0.0in;padding-end:0.0in;border-bottom:thin solid black;border-left:thin solid black;border-right:thin solid black;border-top:thin solid black;}
+.td4{width:0.68819445in;padding-start:0.0in;padding-end:0.0in;border-bottom:thin solid black;border-left:thin solid black;border-right:thin solid black;border-top:thin solid black;}
+.td5{width:1.16875in;padding-start:0.0in;padding-end:0.0in;border-bottom:thin solid black;border-left:thin solid black;border-right:thin solid black;border-top:thin solid black;}
+.r1{height:0.28402779in;keep-together:always;}
+.t1{table-layout:fixed;border-collapse:collapse;border-spacing:0;}
+
+苏州诚和招投标咨询有限公司受苏州市电化教育馆的委托，就其所需系统扩容项目采用竞争性谈判方式进行采购，现就本次采购的成交结果公布如下：
+一、项目名称及项目编号：
+项目名称：系统扩容项目
+项目编号：SZCH2018-T-009
+二、评审小组名单：徐柯然、孙亮、赵是杰
+三、成交信息：
+成交单位：江苏易纬电子科技有限公司
+成交单位地址：苏州市吴中东路18号沧浪创业园206室
+成交金额：肆拾玖万叁仟玖佰元整（￥：493,900.00）
+序号
+标的物名称
+规格型号
+数量
+单价
+1
+教育云SDN扩容
+H3C/LSVM1TGS24FX1/24端口万兆以太网光接口模块（SFP+,LC）含万兆多模模块6个
+2套
+59000
+2
+教育云操作系统扩容
+H3C/LIS-CAP-CLOUDOSB-CE-100/云操作系统教育定制版100License
+1套
+276600
+3
+后备电源扩容
+艾默生/PM30模块/30KW 功率模块
+1台
+99300
+四、代理服务费收费标准：
+预算金额100万元以下部分，费率为该部分预算金额的1.5%；
+预算金额100万元（含）－500万元部分，费率为该部分预算金额的1.1%；
+预算金额500万元（含）-1000万元部分，费率为该部分预算金额的0.8%；
+预算金额1000万元（含）-5000万元部分，费率为该部分预算金额的0.5%；
+预算金额5000万元以上部分，费率为该部分预算金额的0.25%。
+说明：代理服务费以采购预算金额为基数依据，按以上规定的标准和差额定率累进法进行计算收取。例：如预算金额为150万元，则代理服务费＝100万元以下部分×1.5%＋（150万元－100万元以下部分）×1.1%。如按上述方法计算的金额低于人民币3000元整的，则本项目代理服务费按人民币3000元整计收。
+收费金额：人民币柒仟伍佰元整（￥7,500.00）
+五、本次采购联系事项：
+（一）采购人：苏州市电化教育馆
+联系人：徐老师
+联系电话：0512-81877708
+联系地址：苏州市劳动路289号
+（二）代理机构：苏州诚和招投标咨询有限公司
+联系人：邬汝超 联系电话/传真：0512-65161797/65262733
+联系地址：苏州市竹辉路477号二楼 邮政编码：215007
+六、公告期：本公告发布之日起1个工作日。
+各有关当事人对采购结果有异议，可以在公告期限届满之日起七个工作日内，以书面形式向本公司提出质疑，逾期将不再受理。
+苏州诚和招投标咨询有限公司
+2018年5月30日
